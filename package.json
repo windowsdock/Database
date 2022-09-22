@@ -1,0 +1,17 @@
+{
+	"name": "@windowsdock/database",
+	"version": "0.0.1",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/windowsdock/database.git"
+	},
+	"homepage": "https://github.com/windowsdock/database#readme",
+	"bugs": {
+		"url": "https://github.com/windowsdock/database/issues"
+	},
+	"author": "Nikola Hristov <nikola@lightrix.dev>",
+	"license": "MIT",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts"
+}
