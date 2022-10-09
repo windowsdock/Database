@@ -10,8 +10,6 @@
 	"bugs": {
 		"url": "https://github.com/windowsdock/database/issues"
 	},
-	"author": "nikolaxhristov",
-	"license": "MIT",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts"
 }
