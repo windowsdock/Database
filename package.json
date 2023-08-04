@@ -11,8 +11,8 @@
 		"url": "git+https://github.com/windowsdock/database.git"
 	},
 	"license": "MIT",
-	"main": "./dist/Index.js",
-	"types": "./dist/Index.d.ts",
+	"main": "./Target/Index.js",
+	"types": "./Target/Index.d.ts",
 	"devDependencies": {
 		"@lightrix/config": "0.0.11"
 	},
