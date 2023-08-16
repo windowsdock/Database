@@ -12,6 +12,6 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
-		"@lightrix/configuration": "0.0.1"
+		"typescript-esbuild": "0.1.13"
 	}
 }
