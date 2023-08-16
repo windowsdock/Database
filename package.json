@@ -9,6 +9,7 @@
 		"type": "git",
 		"url": "git+https://github.com/windowsdock/database.git"
 	},
+	"license": "MIT",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
