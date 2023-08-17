@@ -1,6 +1,7 @@
 {
 	"name": "@windowsdock/database",
 	"version": "0.0.1",
+	"private": "false",
 	"homepage": "https://github.com/windowsdock/database#readme",
 	"bugs": {
 		"url": "https://github.com/windowsdock/database/issues"
@@ -10,9 +11,18 @@
 		"url": "git+https://github.com/windowsdock/database.git"
 	},
 	"license": "MIT",
+	"author": {
+		"name": "Nikola Hristov",
+		"email": "nikola@nikolahristov.tech",
+		"url": "https://nikolahristov.tech"
+	},
+	"type": "module",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"devDependencies": {
 		"typescript-esbuild": "0.1.13"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
