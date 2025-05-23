@@ -2,9 +2,9 @@
 	"name": "@windowsdock/database",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "HTTPS://GitHub.Com/windowsdock/database#readme",
+	"homepage": "https://GitHub.Com/windowsdock/database#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/windowsdock/database/issues"
+		"url": "https://GitHub.Com/windowsdock/database/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
